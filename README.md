@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Jenil</h1>
 
-<!--
-**jenil-prajapati/jenil-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+I am a third-year computer science student at University of California - Santa Barbara, passionate about exploring the realms of coding, AI/ML, and building robust web applications.
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenilprajapati/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🗒️ Additional Projects (Non-pinned)
+
+* BowMaster - Bow and Arrow Game: https://github.com/jenil-prajapati/BowMaster
+* BoaBomb - Snake Game: https://github.com/jenil-prajapati/BoaBomb
+
+
