@@ -8,7 +8,6 @@ I am a third-year computer science student at University of California - Santa B
 
 # 🗒️ Additional Projects (Non-pinned)
 
-* BowMaster - Bow and Arrow Game: https://github.com/jenil-prajapati/BowMaster
 * BoaBomb - Snake Game: https://github.com/jenil-prajapati/BoaBomb
 
 
