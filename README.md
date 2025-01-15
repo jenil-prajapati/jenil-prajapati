@@ -11,5 +11,6 @@ Personal Portfolio: [jenilprajapati.dev](https://jenil-prajapati.github.io/perso
 # 🗒️ Additional Projects (Non-pinned)
 
 * BoaBomb - Snake Game: https://github.com/jenil-prajapati/BoaBomb
+* Weather App: https://github.com/jenil-prajapati/weather-app
 
 
