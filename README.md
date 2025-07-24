@@ -13,5 +13,6 @@ Personal Portfolio: [https://jenilprajapatipersonaldev.netlify.app/](https://jen
 * Bot Development Project: https://github.com/jenil-prajapati/popmart
 * BoaBomb - Snake Game: https://github.com/jenil-prajapati/BoaBomb
 * Weather App: [https://github.com/jenil-prajapati/weather-app](https://github.com/jenil-prajapati/weatherapp-mern)
+* Twitch Chat Analyzer PythonNB: https://github.com/jenil-prajapati/twitch-chat-analyzer/
 
 
