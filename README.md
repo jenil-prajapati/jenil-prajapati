@@ -14,5 +14,6 @@ Personal Portfolio: [https://jenilprajapatipersonaldev.netlify.app/](https://jen
 * BoaBomb - Snake Game: https://github.com/jenil-prajapati/BoaBomb
 * Weather App: [https://github.com/jenil-prajapati/weather-app](https://github.com/jenil-prajapati/weatherapp-mern)
 * Twitch Chat Analyzer PythonNB: https://github.com/jenil-prajapati/twitch-chat-analyzer/
+* FaceBook Marketplace Chrome Extension: https://github.com/jenil-prajapati/fb-marketplace-extension
 
 
