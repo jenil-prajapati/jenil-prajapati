@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jenil</h1>
 
 # 💫 About Me:
-I am a third-year computer science student at University of California - Santa Barbara, passionate about exploring the realms of coding, AI/ML, and building robust web applications.
+I am a fourth-year Computer Science & Statistics student at University of California - Santa Barbara, passionate about exploring the realms of coding, AI/ML, and building robust web applications.
 
 Personal Portfolio: https://jenilprajapatipersonaldevportfolio.netlify.app/
 ## 🌐 Connect with me:
