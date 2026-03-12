@@ -10,6 +10,7 @@ Personal Portfolio: https://jenilprajapatipersonaldevportfolio.netlify.app/
 # 🗒️ Additional Projects (Non-pinned)
 
 * Generative Artificial Intelligence Personal Project: https://github.com/jenil-prajapati/gen-ai
+* Stock Market Prediction ML Model: https://github.com/jenil-prajapati/project-stock-sp500
 * Bot Development Project: https://github.com/jenil-prajapati/popmart
 * BoaBomb - Snake Game: https://github.com/jenil-prajapati/BoaBomb
 * Weather App: [https://github.com/jenil-prajapati/weather-app](https://github.com/jenil-prajapati/weatherapp-mern)
