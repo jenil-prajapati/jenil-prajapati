@@ -10,6 +10,7 @@ Personal Portfolio: https://jenilprajapatipersonaldevportfolio.netlify.app/
 # 🗒️ Additional Projects (Non-pinned)
 
 * Generative Artificial Intelligence Personal Project: https://github.com/jenil-prajapati/gen-ai
+* Cybersecurity Hacking Game: https://github.com/jenil-prajapati/hackmerlin-ai-agent
 * Web Application: https://github.com/jenil-prajapati/GotchuGaucho
 * Stock Market Prediction ML Model: https://github.com/jenil-prajapati/project-stock-sp500
 * Bot Development Project: https://github.com/jenil-prajapati/popmart
